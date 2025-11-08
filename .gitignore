@@ -1,0 +1,11 @@
+
+# Dati di training esclusi
+tt
+x_train.npy
+x_train_norm.npy
+s_train.npy
+
+# Dati training esclusi
+x_train.npy
+x_train_norm.npy
+s_train.npy
