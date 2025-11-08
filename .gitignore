@@ -14,3 +14,9 @@ s_train.npy
 x_train.npy
 x_train_norm.npy
 s_train.npy
+
+# Escludi dataset npy
+data/raw/X_train.npy
+data/processed/X_train_norm.npy
+data/raw/S_train.npy
+data/processed/S_train_norm.npy
